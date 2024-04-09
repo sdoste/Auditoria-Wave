@@ -1,0 +1,34 @@
+1- AUDITORIA ACCESIBILIDAD WEB
+
+https://www.dgt.es/inicio/
+
+En general bien:
+
+•	Tiene bastante “Alternative text” para las imágenes, incluso para las que son enlaces. 
+•	Contrastes de color están bastante bien, excepto en algunos div pequeños.
+•	Se puede mover con facilidad el teclado
+•	Hay muchos atributos ARIA
+
+Algunas partes peor:
+
+•	No tiene accesos directos para saltarse el menú o moverse dentro de la misma página.
+•	Algunos botones vacíos
+•	Algunos elementos mal etiquetados (por ejemplo texto destacado como si fueran headers pero no lo son).
+
+2- Sobre interface de usuario:
+
+Apunta cuánto tiempo has necesitado para completarlo.
+
+No lo he podido completar porque la última parte no parece que tenga una respuesta correcta, y si la tiene no la sé ver.
+¿Qué has aprendido?
+    •	Muchas cosas parecen cosas que no son
+        o   como botones (tienen recuadro pero luego solo funciona si haces clic en el texto)
+        o	placeholders (no lo son)
+        o	botones para salir (tampoco lo son, muchas veces entorpecen)
+
+    •	Instintivamente tenemos costumbres como usuarios; por ejemplo he aceptado las cookies porque la opción de aceptarlas era más pequeña.
+    •	También hay malicia a la hora de redactar, poniendo las cosas en negativo cuando normalmente es “acepto” y aquí es “no acepto”, o dándole la vuelta teniendo una casilla marcada y tener que desmarcarla, cuando normalmente es al revés.
+
+ 
+¿Cuáles son tus conclusiones?
+Que como usuarios tenemos costumbres en la manera en la que interaccionamos con las UIs. También que puede haber malicia en la que ciertos componentes se diseñan.
